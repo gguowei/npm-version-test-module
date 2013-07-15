@@ -7,5 +7,5 @@ This is the experimental version of this file.
 
 ## Notes
 
-Wei's version 0.8.1
+Wei's version 0.8.2
 
