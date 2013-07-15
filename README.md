@@ -3,3 +3,9 @@
 This is a trivial module being used to demonstrate npm dependency handling.
 
 This is the experimental version of this file.
+
+
+## Notes
+
+Wei's version 0.8.1
+
